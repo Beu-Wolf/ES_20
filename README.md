@@ -48,7 +48,7 @@
 <p align="right"><i>and <b>quiz management</b> for teachers</i></p>
 
 <p align="center">
-  <a href="#disclaimer">Disclaimer</<> •
+  <a href="#disclaimer">Disclaimer</a> •
   <a href="#about">About</a> •
   <a href="#technologies">Technologies</a> •
   <a href="#installation">Installation</a> •
